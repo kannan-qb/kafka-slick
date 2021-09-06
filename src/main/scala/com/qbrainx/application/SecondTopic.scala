@@ -1,5 +1,5 @@
 package com.qbrainx.application
-import com.qbrainx.application.ProducerImp.producer
+
 import com.qbrainx.util.ProducerProperties.properties
 import org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord}
 
